@@ -1,6 +1,6 @@
 # Mapty
  Record your workout 🏃  on map  
- Click <a hef="https://veersingh0001.github.io/Mapty/">Here</a> for live preview.
+ Click <a href="https://veersingh0001.github.io/Mapty/">here</a> for live preview.
  <ul>  <li> To create workout click on map where you start workout  than a list will apper on left side and than select type of workout form drop down list and fill correct and valid values.</li>
        <li> It will store your workouts in your local storage and every time you wil come it will show all your past workouts.</li>
        <li> For checking workout on map click on the workout in list than map will automaticaly move to that place.</li>
